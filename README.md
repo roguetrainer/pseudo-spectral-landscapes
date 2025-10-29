@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive exploration of **pseudo-spectral landscapes** and their relevance to understanding Large Language Models (LLMs) through geometric approaches.
 
+![image](./pseudo-spectral-landscapes.png)
+
 ## 📁 Files Overview
 
 ### Code Files
